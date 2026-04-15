@@ -21,6 +21,14 @@ These projects demonstrate data analysis, visualization, and business insights.
 
 ---
 
+### 🔹 Adventure Works Sales Dashboard
+- Sales performance, revenue, and product analysis  
+- Category-wise and region-wise insights  
+- Customer and product-level breakdown  
+👉 [View Project](./Adventure-Works-Sales-Dashboard)
+
+---
+
 ## 🛠 Tools Used
 - Microsoft Power BI  
 - Microsoft Excel  
@@ -35,6 +43,9 @@ These projects demonstrate data analysis, visualization, and business insights.
 ### Sales Dashboard
 ![Sales](./PowerBI-Report/Dashboard.png)
 
+### Adventure Works Dashboard
+![Adventure](./Adventure-Works-Sales-Dashboard/Dashboard_Page1.png)
+
 ---
 
 ## 📌 How to Use
@@ -42,6 +53,14 @@ These projects demonstrate data analysis, visualization, and business insights.
 2. Download the `.pbix` file  
 3. Open using Power BI Desktop  
 4. Explore interactive dashboards  
+
+---
+
+## 🎯 Key Skills Demonstrated
+- Data Cleaning & Transformation  
+- Data Visualization  
+- Business Insights Generation  
+- Dashboard Design  
 
 ---
 
