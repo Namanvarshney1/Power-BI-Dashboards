@@ -34,19 +34,6 @@ The dashboard tracks **new hires, active employees, separations, and bad hires**
 
 ---
 
-## 📸 Dashboard Preview
-
-### 📊 Summary
-![Dashboard Summary](Dashboard_Page1.png)
-
-### 🆕 New Hires
-![New Hires](Dashboard_Page2.png)
-
-### 👨‍💼 Active vs. Separated Employees
-![Active vs Separated](Dashboard_Page3.png)
-
-### ❌ Bad Hires
-![Bad Hires](Dashboard_Page4.png)
 
 ---
 
